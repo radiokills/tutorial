@@ -24,7 +24,8 @@ Gem::Specification.new do |s|
     "lib/string_ext.rb",
     "lib/tutorial.rb",
     "test/helper.rb",
-    "test/test_tutorial.rb"
+    "test/test_tutorial.rb",
+    "tutorial.gemspec"
   ]
   s.homepage = %q{http://github.com/radiokills/tutorial}
   s.licenses = ["MIT"]
